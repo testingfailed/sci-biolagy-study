@@ -1,12 +1,5 @@
 export const games = [
     {
-        gamename: "Retro Bowl",
-        gameIMG: "images/rb.jpg",
-        link: "bandruf.github.io/rb2/",
-        viewed_on: 0,
-        genre: "Sports"
-    },
-    {
         gamename: "Clumsy Bird",
         gameIMG : "images/clum.jpg",
         link: "ellisonleao.github.io/clumsy-bird/",
