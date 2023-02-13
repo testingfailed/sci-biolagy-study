@@ -672,7 +672,7 @@ export const games = [
     {
         gamename: "giga manga",
         gameIMG : "images/gm.jpeg",
-        link: "https://artsandculture.google.com/experiment/giga-manga/UAHzM-yZUdUpNA?hl=en"   ,
+        link: "artsandculture.google.com/experiment/giga-manga/UAHzM-yZUdUpNA?hl=en"   ,
         viewed_on: 0,
     },    
 ] 
