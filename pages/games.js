@@ -669,4 +669,10 @@ export const games = [
         link: "doodlecricket.github.io/#/"   ,
         viewed_on: 0,
     },
+    {
+        gamename: "giga manga",
+        gameIMG : "images/unnamed.gif",
+        link: "https://artsandculture.google.com/experiment/giga-manga/UAHzM-yZUdUpNA?hl=en"   ,
+        viewed_on: 0,
+    },    
 ] 
