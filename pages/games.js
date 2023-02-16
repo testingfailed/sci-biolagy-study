@@ -674,5 +674,11 @@ export const games = [
         gameIMG : "images/synth.png",
         link: "nicroto.github.io/viktor/"   ,
         viewed_on: 0,
+    },     
+    {
+        gamename: "gxme",
+        gameIMG : "images/gxme.png",
+        link: "helpful-brioche-c830e8.netlify.app/gxmes/"   ,
+        viewed_on: 0,
     },    
 ] 
