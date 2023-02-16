@@ -146,7 +146,7 @@ export const games = [
     {
         gamename: "Burrito Bison Launcha Libre",
         gameIMG : "images/launch.png",
-        link: "moyaimoment.github.io/games/burrito/"   ,
+        link: "burritobison.github.io/"   ,
         viewed_on: 0,                genre: "Endless"
     },
     {
