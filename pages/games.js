@@ -670,9 +670,9 @@ export const games = [
         viewed_on: 0,
     },
     {
-        gamename: "giga manga",
-        gameIMG : "images/gm.jpeg",
-        link: "artsandculture.google.com/experiment/giga-manga/UAHzM-yZUdUpNA"   ,
+        gamename: "synth",
+        gameIMG : "images/synth.png",
+        link: "nicroto.github.io/viktor/"   ,
         viewed_on: 0,
     },    
 ] 
